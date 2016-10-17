@@ -1,0 +1,23 @@
+{
+  "name": "tweetindos",
+  "version": "1.0.0",
+  "description": "A dos based access to twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmile1/tweetinDOS.git"
+  },
+  "keywords": [
+    "twitter",
+    "dos"
+  ],
+  "author": "xmile",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/xmile1/tweetinDOS/issues"
+  },
+  "homepage": "https://github.com/xmile1/tweetinDOS#readme"
+}

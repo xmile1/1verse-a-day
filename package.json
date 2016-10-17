@@ -19,5 +19,16 @@
   "bugs": {
     "url": "https://github.com/xmile1/tweetinDOS/issues"
   },
-  "homepage": "https://github.com/xmile1/tweetinDOS#readme"
+  "homepage": "https://github.com/xmile1/tweetinDOS#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "http-client": "^4.3.1",
+    "linebyline": "^1.3.0",
+    "oauth": "^0.9.14",
+    "qs": "^6.3.0",
+    "readline": "^1.3.0",
+    "twitter-js-client": "0.0.5",
+    "unirest": "^0.5.1"
+  }
 }
